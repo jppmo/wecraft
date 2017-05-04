@@ -1,0 +1,18 @@
+{
+  "Hello": "Hello",
+  "Welcome": "Welcome",
+  "Hello %s": "Hello %s",
+  "weekend": "weekend",
+  "Categories": "Categories",
+  "Hello %s, how are you today? How was your %s.": "Hello %s, how are you today? How was your %s.",
+  "Hi": "Hi",
+  "Howdy": "Howdy",
+  "%s cat": {
+    "one": "%s cat",
+    "other": "%s cats"
+  },
+  "cat": {
+    "one": "%s cat",
+    "other": "%s cats"
+  }
+}

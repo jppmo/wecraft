@@ -1,0 +1,18 @@
+{
+  "Hello": "Ola",
+  "Welcome": "Bem-Vindo",
+  "Hello %s": "Ola %s",
+  "weekend": "fim de semana",
+  "Categories": "Categorias",
+  "Hello %s, how are you today? How was your %s.": "Ola %s, como estás? Como foi o teu %s.",
+  "Hi": "Oi",
+  "Howdy": "'mé que é'",
+  "%s cat": {
+    "one": "%s gato",
+    "other": "%s gatos"
+  },
+  "cat": {
+    "one": "%s gato",
+    "other": "%s gatos"
+  }
+}
